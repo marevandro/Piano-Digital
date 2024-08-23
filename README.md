@@ -13,6 +13,10 @@ Este projeto foi desenvolvido como parte do meu aprendizado em manipulação de 
 Aqui está um vídeo curto mostrando o projeto em ação:
 
 
+https://github.com/user-attachments/assets/6201f02e-e26f-4fbb-a933-d8ced9ffc650
+
+
+
 
 ## 🛠️ Tecnologias Utilizadas
 
