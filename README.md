@@ -20,13 +20,14 @@ https://github.com/user-attachments/assets/6201f02e-e26f-4fbb-a933-d8ced9ffc650
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **JavaScript**: Para toda a lógica de manipulação de DOM.
-- **HTML**: Para estruturar os elementos da página.
-- **Sass**: Para estilizar a página de forma modular e organizada.
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ## 📚 Inspiração
 
-Este projeto foi inspirado pela [Masterclass #18](https://link-do-video) sobre manipulação de DOM com JavaScript. A aula forneceu uma base sólida para entender como o DOM funciona e como podemos interagir com ele usando JavaScript.
+Este projeto foi inspirado pela [Masterclass #18]([https://link-do-video](https://www.youtube.com/watch?v=UftSB4DaRU4)) sobre manipulação de DOM com JavaScript. A aula forneceu uma base sólida para entender como o DOM funciona e como podemos interagir com ele usando JavaScript.
 
 ## 🔍 Objetivo
 
